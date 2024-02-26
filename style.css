@@ -1,0 +1,86 @@
+div1{
+    padding-left: 300px;
+}
+
+.hh1,h2{
+    text-align: center;
+}
+img{
+    margin-left: 350px;
+}
+h2{
+    font-size: 20px;
+    margin-top: -20px;
+}
+.hh{
+    text-decoration: underline;
+}
+span{
+   font-style: italic;
+}
+.div{
+    margin-left: 100px;
+}
+.po{
+    margin-left: 90px;
+}
+.ss{
+    text-align: center;
+}
+.li{
+    margin-left: 100px;
+    font-weight: bold;
+}
+ol{
+    margin-left: 100px;
+}
+.hh2{
+    margin-left: 90px;
+}
+.div11{
+    border: 1px solid black;
+    width: 1100px;
+    height: 200px;
+    margin-left: 70px;
+}
+.hc, input{
+    margin-left: 10px;
+}
+.div12{
+    padding-top: 0px;
+    border: 1px solid black;
+    width: 1100px;
+    height: 270px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+.hc, input{
+    margin-left: 10px;
+}
+.div13{
+    padding-top: 0px;
+    border: 1px solid black;
+    width: 1100px;
+    height: 270px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+#mot{
+    width: 1050px;
+    height: 170px;
+}
+.div14{
+    border: 1px solid black;
+    width: 1100px;
+    height: 190px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+.nm{
+    margin-left: 10px;
+    letter-spacing: 0px;
+}
+.su{
+    margin-left: 500px;
+    margin-top: 20px;
+}
